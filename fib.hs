@@ -1,0 +1,1 @@
+fibonacci n = if n < 3 then 1 else fibonacci (n-2) + fibonacci(n-1)

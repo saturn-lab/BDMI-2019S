@@ -1,0 +1,1 @@
+fibolacci n =if n<3 then 1 else fibolacci(n-1)+fibolacci(n-2)

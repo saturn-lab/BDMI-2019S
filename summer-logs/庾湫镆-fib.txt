@@ -1,0 +1,3 @@
+﻿fbi n=if n<3 then 1 else fbi (n-1) +fbi (n-2) 
+fb n= if n<2 then [1] else fbi (n) :fb (n-1)
+

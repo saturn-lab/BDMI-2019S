@@ -4,7 +4,7 @@
 | ---------- | ------ | -------------- |
 | 2016010016 | 李晓雯 |                |
 | 2016012657 | 陈思睿 |                |
-| 2017010591 | 洪昊昀 |                |
+| 2017010591 | 洪昊昀 |基于深度学习的图像分类、定位、神经画风迁移与语音识别安卓应用的开发与拓展 Development of Android Applications Based on Deep Learning about Image Classification, Positioning, Neural Flow Migration and Speech Recognition|
 | 2017010670 | 毛佳杰 |                |
 | 2017011276 | 王瀚森 |                |
 | 2017012066 | 李胜锐 |                |

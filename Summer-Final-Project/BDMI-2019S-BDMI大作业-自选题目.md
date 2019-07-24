@@ -9,7 +9,7 @@
 | 2017011276 | 王瀚森 |                |
 | 2017012066 | 李胜锐 | 黑白图片自动上色Let there be Color!: Joint End-to-end Learning of Global and Local Image Prior for Automatic Image Colorization with Simultaneous Classification |
 | 2017012324 | 蒋广宇 |                |
-| 2018010824 | 李金朋 |                |
+| 2018010824 | 李金朋 |利用长短期记忆网络实现情感分析 Sentiment Analysis with LSTMs|
 | 2018010826 | 庾湫镆 |Learning to optimize join queries with deep reinforcement learning                |
 | 2018011280 | 卢星宇 | 一种复杂度为o(n)的机器学习排序算法 An O(N) Sorting Algorithm: Machine Learning Sort |
 | 2018011281 | 汤昊   |Anatomically-aware facial animation from a single image based on GAN                |

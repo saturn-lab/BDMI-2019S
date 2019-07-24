@@ -12,7 +12,7 @@
 | 2018010824 | 李金朋 |                |
 | 2018010826 | 庾湫镆 |Learned Cardinalities:Estimating Correlated Joins with Deep Learning                |
 | 2018011280 | 卢星宇 | 一种复杂度为o(n)的机器学习排序算法 An O(N) Sorting Algorithm: Machine Learning Sort |
-| 2018011281 | 汤昊   |                |
+| 2018011281 | 汤昊   |Anatomically-aware facial animation from a single image based on GAN                |
 | 2018012733 | 熊光智 |Sketch-RNN: A Generative Model for Vector Drawings|
 | 2018012056 | 李响   |                |
 | 2018012383 | 王子瑄 |                |

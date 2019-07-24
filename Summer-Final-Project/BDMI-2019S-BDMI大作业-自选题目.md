@@ -12,7 +12,7 @@
 | 2018010824 | 李金朋 |利用长短期记忆网络实现情感分析 Sentiment Analysis with LSTMs|
 | 2018010826 | 庾湫镆 |Learning to optimize join queries with deep reinforcement learning                |
 | 2018011280 | 卢星宇 | 一种复杂度为o(n)的机器学习排序算法 An O(N) Sorting Algorithm: Machine Learning Sort |
-| 2018011281 | 汤昊   |Anatomically-aware facial animation from a single image based on GAN                |
+| 2018011281 | 汤昊   |A method to make machine learn how to paint by combining the neural renderer and model-based deep reinforcement learning                |
 | 2018012733 | 熊光智 |Sketch-RNN: A Generative Model for Vector Drawings|
 | 2018012056 | 李响   |                |
 | 2018012383 | 王子瑄 |通过 Deep Q-Network 来玩 Flappy Bird———DeepLearningFlappyBird|

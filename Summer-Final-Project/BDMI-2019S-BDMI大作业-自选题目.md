@@ -2,7 +2,7 @@
 
 | 学号       | 姓名   | 题目（中英文） |
 | ---------- | ------ | -------------- |
-| 2016010016 | 李晓雯 |                |
+| 2016010016 | 李晓雯 |GANGogh: Creating Art with GANs|
 | 2016012657 | 陈思睿 |                |
 | 2017010591 | 洪昊昀 |深梦化图像与神经画风迁移的实现与拓展 Realization and Development of Deep Dream Technology and Neural Art Style Transfer|
 | 2017010670 | 毛佳杰 |利用RNN实现字符串预测从而生成文本|

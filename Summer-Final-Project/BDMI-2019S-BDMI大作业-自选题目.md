@@ -19,4 +19,4 @@
 | 2018012394 | 雷梓阳 |基于深度学习提高模糊图片的分辨率 Image super-resolution through deep learning|
 | 2015010750 | 朱晓堃 |                |
 | 2017010892 | 吴世东 |                |
-| 2016012193 | 汪冰钢 |                |
+| 2016012193 | 汪冰钢 | neural - Neural Nets in native Haskell  |

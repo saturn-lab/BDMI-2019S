@@ -7,8 +7,7 @@
 | 2017010591 | 洪昊昀 |深梦化图像与神经画风迁移的实现与拓展 Realization and Development of Deep Dream Technology and Neural Art Style Transfer|
 | 2017010670 | 毛佳杰 |利用RNN实现字符串预测从而生成文本|
 | 2017011276 | 王瀚森 |                |
-| 2017012066 | 李胜锐 |黑白图片自动上色Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors
-for Automatic Image Colorization with Simultaneous Classification|
+| 2017012066 | 李胜锐 |黑白图片自动上色Let there be Color!: Joint End-to-end Learning of Global and Local Image Prior for Automatic Image Colorization with Simultaneous Classification|
 | 2017012324 | 蒋广宇 |                |
 | 2018010824 | 李金朋 |                |
 | 2018010826 | 庾湫镆 |                |

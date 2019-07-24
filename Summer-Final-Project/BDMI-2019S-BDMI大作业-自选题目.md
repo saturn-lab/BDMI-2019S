@@ -14,7 +14,7 @@
 | 2018011280 | 卢星宇 | 一种复杂度为o(n)的机器学习排序算法 An O(N) Sorting Algorithm: Machine Learning Sort |
 | 2018011281 | 汤昊   |A method to make machine learn how to paint by combining the neural renderer and model-based deep reinforcement learning                |
 | 2018012733 | 熊光智 |Sketch-RNN: A Generative Model for Vector Drawings|
-| 2018012056 | 李响   |                |
+| 2018012056 | 李响   |SHINE: signed heterogeneous information network embedding for sentiment link prediction               |
 | 2018012383 | 王子瑄 |通过 Deep Q-Network 来玩 Flappy Bird———DeepLearningFlappyBird|
 | 2018012394 | 雷梓阳 |基于深度学习提高模糊图片的分辨率 Image super-resolution through deep learning|
 | 2015010750 | 朱晓堃 |                |

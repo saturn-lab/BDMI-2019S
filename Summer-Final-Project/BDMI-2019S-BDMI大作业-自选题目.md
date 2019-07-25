@@ -20,4 +20,5 @@
 | 2015010750 | 朱晓堃 |                |
 | 2017010892 | 吴世东 |视觉导航的认知映射与规划 Cognitive Mapping and Planning for Visual Navigation             |
 | 2016012193 | 汪冰钢 | neural - Neural Nets in native Haskell  |  
-
+|  | 洪思远 |             |
+|  | 李港新 |   |  

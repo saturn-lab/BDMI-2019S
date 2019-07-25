@@ -16,7 +16,7 @@
 | 2018012733 | 熊光智 |Sketch-RNN: A Generative Model for Vector Drawings|
 | 2018012056 | 李响   |SHINE: signed heterogeneous information network embedding for sentiment link prediction               |
 | 2018012383 | 王子瑄 |通过 Deep Q-Network 来玩 Flappy Bird———DeepLearningFlappyBird|
-| 2018012394 | 雷梓阳 |基于深度学习提高模糊图片的分辨率 Image super-resolution through deep learning|
+| 2018012394 | 雷梓阳 |基于百度BI-LSTM模型的文本情感倾向分析实例 Text sentiment classification baesd on the model of BI-LSTM|
 | 2015010750 | 朱晓堃 |                |
 | 2017010892 | 吴世东 |视觉导航的认知映射与规划 Cognitive Mapping and Planning for Visual Navigation             |
 | 2016012193 | 汪冰钢 | neural - Neural Nets in native Haskell  |  

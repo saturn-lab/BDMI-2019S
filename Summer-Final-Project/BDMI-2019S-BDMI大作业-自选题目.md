@@ -8,7 +8,7 @@
 | 2017010670 | 毛佳杰 |利用RNN实现字符串预测从而生成文本|
 | 2017011276 | 王瀚森 |Learn to solve routing problems with deep reinforcement learning      |
 | 2017012066 | 李胜锐 | 黑白图片自动上色Let there be Color!: Joint End-to-end Learning of Global and Local Image Prior for Automatic Image Colorization with Simultaneous Classification |
-| 2017012324 | 蒋广宇 |A Neural Algorithm of Artistic Style|
+| 2017012324 | 蒋广宇 |A painting AI that can reproduce paintings stroke by stroke using deep reinforcement learning|
 | 2018010824 | 李金朋 |利用长短期记忆网络实现情感分析 Sentiment Analysis with LSTMs|
 | 2018010826 | 庾湫镆 |Learning to optimize join queries with deep reinforcement learning                |
 | 2018011280 | 卢星宇 | 一种复杂度为o(n)的机器学习排序算法 An O(N) Sorting Algorithm: Machine Learning Sort |

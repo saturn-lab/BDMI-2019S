@@ -1,1 +1,0 @@
-fibo n= if n<3 then 1 else fibo(n-1)+fibo(n-2)

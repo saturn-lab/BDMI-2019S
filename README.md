@@ -1,4 +1,4 @@
-# BDMI-Course-2019
+# BDMI-Course-2019-Summer Term
 > This is a repo for course logs and ....
 
 ## Notes

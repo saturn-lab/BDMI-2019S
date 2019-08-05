@@ -1,7 +1,7 @@
 -- START:data
 data Regexp = CharRE Char
             | ChoiceRE Regexp Regexp
-            | SeqRE Rexexp Regexp
+            | SeqRE Regexp Regexp
             | StarRE Regexp
             | VoidRE
             | EmptyRE
@@ -26,7 +26,7 @@ derivative (CharRE c) d = -- (7)
   if c == d
     then EmptyRE
     else VoidRE
-derivative (SeqRE re_one re_two)) c = -- (8)
+derivative (SeqRE re_one re_two) c = -- (8)
   let re_one' = (derivative re_one c)
   in case re_one' of
     VoidRE -> VoidRE
@@ -35,7 +35,7 @@ derivative (SeqRE re_one re_two)) c = -- (8)
            then (ChoiceRE (SeqRE re_one' re_two) (derivative re_two c))
            else (SeqRE re_one' re_two)
 derivative (ChoiceRE re_one re_two) c = -- (9)
-  let re_one' = (derivative re_one)
+  let re_one' = (derivative re_one c)
       re_two' = (derivative re_two)
   in case (re_one', re_two') of
     (VoidRE, VoidRE) -> VoidRE

@@ -1,3 +1,5 @@
+module Deriv where
+
 -- START:data
 data Regexp = CharRE Char
             | ChoiceRE Regexp Regexp
@@ -28,15 +30,20 @@ derivative (CharRE c) d = -- (7)
     else VoidRE
 derivative (SeqRE re_one re_two) c = -- (8)
   let re_one' = (derivative re_one c)
+      re_two' = (derivative re_two c)
   in case re_one' of
-    VoidRE -> VoidRE
+    VoidRE -> if (delta re_one)
+                then (derivative re_two c)
+                else VoidRE
     EmptyRE -> re_two
     _ -> if (delta re_one)
-           then (ChoiceRE (SeqRE re_one' re_two) (derivative re_two c))
+           then if (re_two'==VoidRE)
+                  then SeqRE re_one' re_two
+                  else (ChoiceRE (SeqRE re_one' re_two) (derivative re_two c))
            else (SeqRE re_one' re_two)
 derivative (ChoiceRE re_one re_two) c = -- (9)
   let re_one' = (derivative re_one c)
-      re_two' = (derivative re_two)
+      re_two' = (derivative re_two c)
   in case (re_one', re_two') of
     (VoidRE, VoidRE) -> VoidRE
     (VoidRE, nonvoid) -> nonvoid
